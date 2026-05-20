@@ -18,3 +18,11 @@ __pycache__/
 npy/
 *.npy
 *.npz
+
+# 忽略特殊的文件
+*.tsv
+*.json
+*.index
+*.meta
+*.data-00000-of-00001
+*.bpe
